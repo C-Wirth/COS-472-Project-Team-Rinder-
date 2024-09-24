@@ -6,6 +6,9 @@ Authors:
       Lucas Matheson
       Colby Wirth
 
-This project will involve the training of a ML model about material prediction 
+Instructions: Read about the API used to access the database here :
+
+https://docs.materialsproject.org/
+
 
 Source of data: https://next-gen.materialsproject.org/materials/mp-1183063
