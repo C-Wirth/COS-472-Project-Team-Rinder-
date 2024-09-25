@@ -8,6 +8,13 @@ Authors:
 
 Instructions: Read about the API used to access the database here :
 
+*****
+import_data.ipynb will download all 153,xxx tuples from the db.
+Only call the first cell once to not overwhelm their databse
+This is ~ 1.8 GB of data
+*****
+
+
 https://docs.materialsproject.org/
 
 
