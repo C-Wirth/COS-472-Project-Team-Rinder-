@@ -1,1 +1,3 @@
-current_csv_files/categorical_df.csv filter=lfs diff=lfs merge=lfs -text
+dataset/5_categorical_data.csv filter=lfs diff=lfs merge=lfs -text
+dataset/5_numerical_data.csv filter=lfs diff=lfs merge=lfs -text
+
