@@ -5,9 +5,13 @@ Steps so far on progress
 3. began to choose a ai model to use
 4. data is processed into a useable numerical format
 5. first model, "brokenModel" is created, with an R squared of -0.3
-6. Random forest regeressor is used as a secondary machine learning model
+6. Random forest regressor is used as a secondary machine learning model
 7. heat map is made to see band gaps correlation between all features inside the numerical data set. 
 8. ten features are used in both models, "nsites", "nelements", "is_gap_direct", "cbm", "energy_per_atom", 
 "is_metal","efermi" ,"vbm" ,"formation_energy_per_atom","density". These features obtained R squared values of 
 0.99. RandomForestRegressor is 
 9. Testing to see potential overfitting. More Preprocessing
+10. Prepoccessing new data to predict new values
+11. Choosing new continuous attributes to predict (potentially Density, Density Atomic, Formation Entry Per Atom)
+12. Created Test model for predicting density
+
