@@ -15,5 +15,6 @@ These features obtained R-squared values of 0.99. RandomForestRegressor is
 10. Prepoccessing new data to predict new values
 11. Choosing new continuous attributes to predict (potentially Density, Density Atomic, Formation Entry Per Atom)
 12. Created Test model for predicting density
-13. Began creating model for predicting VBM using full numerical dataset
+13. Created a new model to predict if an element is stable. r squared of 1.0
+14. Began creating model for predicting VBM using full numerical dataset
 
