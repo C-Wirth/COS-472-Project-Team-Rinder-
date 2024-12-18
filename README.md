@@ -1,21 +1,25 @@
 # COS-472-Project-Team-Rinder-
-COS 472 Project ML Training - Predicting  Material Property
+COS 472 Project: PREDICTING MATERIAL PROPERTIES WITH MACHINE LEARNING
 
 Authors: 
-      Benjamin Franklin
-      Lucas Matheson
       Colby Wirth
+      Lucas Matheson
+      Benjamin Franklin
 
-Instructions: Read about the API used to access the database here :
-
-*****
-import_data.ipynb will download all 153,xxx tuples from the db.
-Only call the first cell once to not overwhelm their databse
-This is ~ 1.8 GB of data
-*****
+Version: 
+      18 December 2024
 
 
+Instructions: Read about the API used to access the database here: 
 https://docs.materialsproject.org/
 
+
+*****
+1_import_data.ipynb will download all 153,xxx data entries from the db.
+
+execute all following file in sequential order to execute pipeline
+
+the data from each model will output as a csv file to /performance_metrics/
+*****
 
 Source of data: https://next-gen.materialsproject.org/materials/mp-1183063
