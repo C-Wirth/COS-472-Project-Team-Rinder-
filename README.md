@@ -1,5 +1,4 @@
-# COS-472-Project-Team-Rinder-
-COS 472 Project: PREDICTING MATERIAL PROPERTIES WITH MACHINE LEARNING
+ ML Project Predicting Material Attributes 
 
 Authors: 
       Colby Wirth
