@@ -8,6 +8,10 @@ Authors:
 Version: 
       18 December 2024
 
+About:
+
+This project explores the exemplifies the implementation of Machine Learning models with predicting the properties of inorganic materials fro, the materials project API.
+
 
 Instructions: Read about the API used to access the database here: 
 https://docs.materialsproject.org/
